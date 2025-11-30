@@ -1,0 +1,3 @@
+enable_latex_parsing: true
+enable_simplification: true
+max_chain_steps: 6

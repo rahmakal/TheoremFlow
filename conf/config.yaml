@@ -1,0 +1,4 @@
+defaults:
+  - llm: gpt4
+  - lean: lean
+  - pipeline: default
